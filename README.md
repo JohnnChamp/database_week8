@@ -35,6 +35,10 @@ This project implements a **relational database** for managing student academic 
 - SQL DDL (Data Definition Language)
 - ER Modeling
 
+Here is the Entity-Relationship Diagram for the Student Records database:
+
+![ERD](./student_records.png)
+
 ---
 
 ## ⚙️ How to Run
